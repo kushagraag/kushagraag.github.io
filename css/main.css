@@ -48,6 +48,8 @@ h6 {
   font-weight: 800;
 }
 
+
+
 .masthead {
   min-height: 30rem;
   position: relative;
@@ -251,4 +253,8 @@ a:hover, a:focus, a:active {
 
 .text-secondary {
   color: #ecb807 !important;
+}
+
+.anim:hover{
+  fill: red;
 }
