@@ -255,6 +255,10 @@ a:hover, a:focus, a:active {
   color: #ecb807 !important;
 }
 
-.anim:hover{
-  fill: red;
+.anim{
+  transition: .4s;
 }
+.anim:hover{    
+  transform: scale(1.8);
+}
+
